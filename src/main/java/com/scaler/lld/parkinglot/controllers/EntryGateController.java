@@ -11,3 +11,4 @@ public class EntryGateController {
         return entryGateService.createTicket(vehicleType);
     }
 }
+
