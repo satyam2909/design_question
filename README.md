@@ -17,12 +17,6 @@ This repository contains a set of design problems and solutions for the followin
 ## TicTacToe
 [Play the game here!](https://playtictactoe.org/)
 
-## Assignments
-- [ ] Draw class diagram for TicTacToe
-- [ ] Use factory design pattern to improve the runner code [here](https://github.com/kanmaytacker/design-questions/blob/master/src/test/java/com/scaler/lld/tictactoe/TicTacToeTest.java#L29)
-- [ ] Add method to print the current status of the board [here](https://github.com/kanmaytacker/design-questions/blob/master/src/main/java/com/scaler/lld/tictactoe/models/Board.java)
-- [ ] Add a controller method to accept input from the user
-
 
 ## References
 - [Implementing TicTacToe](https://www.hellocodeclub.com/tic-tac-toe-java-how-to-write-game-using-classes/)
